@@ -2,7 +2,7 @@
 
 _gitname=fluxbox
 pkgname="$_gitname-git"
-pkgver=1.3.7+161+g0df41cf8
+pkgver=1.3.7+168+g248b15c2
 pkgrel=1
 pkgdesc="A lightweight and highly-configurable window manager"
 arch=('x86_64')
